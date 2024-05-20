@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "danviv",
+  "repo": "Stirling-PDF",
+  "name": "danviv",
+  "email": "vivekdan@gmail.com",
+}
